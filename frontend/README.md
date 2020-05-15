@@ -20,5 +20,5 @@ Nuestra interfaz se ejecutará sobre el puerto 3000 del ordenador, al hacer npm 
 
 
 ```
-http://localhost:8000/
+http://localhost:3000/
 ```
