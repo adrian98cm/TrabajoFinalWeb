@@ -51,3 +51,15 @@ En cuanto hagamos npm start se nos lanzará automáticamente una ventana de nues
 ```
 http://localhost:3000/
 ```
+### Acceso como administrador
+Para poder crear entrenamientos en la plataforma, debemos acceder como administrador
+Las credenciales de acceso como administrador son las siguientes
+Usuario:
+```
+Admin
+```
+Contraseña:
+```
+Admin
+```
+
